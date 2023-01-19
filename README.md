@@ -1,4 +1,4 @@
-Tulupov Nikita - KM-22m
+Serhii Koznov - KM-22m
 ### Use
 ```
 $ pip3 install -r requirements.txt
